@@ -13,21 +13,3 @@
 1. Перейдите в раздел **[Releases](https://github.com/gaga2010asas-afk/GVSC/releases)**.
 2. Скачайте последний файл `GVSC_Setup_vX.X.X.exe`.
 3. Запустите установщик и следуйте инструкциям.
-
-## 🛠 Запуск из исходного кода (для разработчиков)
-Если вы хотите запустить GVSC напрямую из Python:
-
-```bash
-# 1. Клонируйте репозиторий
-git clone https://github.com/gaga2010asas-afk/GVSC.git
-cd GVSC
-
-# 2. Создайте виртуальное окружение
-python -m venv .venv
-.venv\Scripts\activate  # Для Windows
-
-# 3. Установите зависимости
-pip install -r requirements.txt
-
-# 4. Запустите редактор
-python main.py
