@@ -1,0 +1,10 @@
+{
+    "language": "ru",
+    "theme": "dark",
+    "font_size": 12,
+    "auto_save": true,
+    "show_hidden": false,
+    "vibe_auto_scroll": true,
+    "last_project": "E:/mp/trainers",
+    "ai_url": "http://localhost:1234/v1"
+}
